@@ -4,7 +4,7 @@
         "password": "Ws210623-",
         "time": ["10:00","22:00"],
         "roomid":"6656",
-        "seatid":["70"],
+        "seatid":["070"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday" ,"Saturday" , "Sunday"]
     }
     ]
